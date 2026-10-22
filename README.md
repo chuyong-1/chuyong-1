@@ -6,6 +6,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=19&duration=3000&pause=1200&color=FF1E1E&center=true&vCenter=true&width=700&lines=The%20model%20proposes.%20Deterministic%20code%20decides.;Multi-agent%20systems%20%40%20FreighAI%20%26%20Banao;Offline%20AI%20that%20runs%20on%20a%20laptop%20GPU;Off%20the%20keyboard%2C%20in%20the%20boxing%20ring" alt="The model proposes. Deterministic code decides." />
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/kwok-wai-taifa-242078387/"><img src="https://img.shields.io/badge/LinkedIn-Connect-FF1E1E?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D0D" alt="LinkedIn" /></a>
+  <a href="https://github.com/chuyong-1?tab=repositories"><img src="https://img.shields.io/badge/Repos-Explore-FF1E1E?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0D" alt="Repositories" /></a>
+</p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF1E1E,100:000000&height=2" alt="" />
 
 ## `01` About
