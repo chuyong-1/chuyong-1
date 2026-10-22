@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:5C0000,100:FF1E1E&height=240&section=header&text=KWOK%20WAI%20TAIFA&fontSize=54&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&stroke=FF1E1E&strokeWidth=1&desc=AI%20ENGINEER%20%20//%20%20MULTI-AGENT%20SYSTEMS%20%20//%20%20DISTRICT%20BOXING%20CHAMPION&descSize=15&descAlignY=60&descColor=FFB3B3" alt="Kwok Wai Taifa" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:5C0000,100:FF1E1E&height=230&section=header&text=KWOK%20WAI%20TAIFA&fontSize=54&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=AI%20ENGINEER%20%20%2F%2F%20%20MULTI-AGENT%20SYSTEMS%20%20%2F%2F%20%20DISTRICT%20BOXING%20CHAMPION&descSize=15&descAlignY=56&descColor=FFD6D6" alt="Kwok Wai Taifa" />
 </p>
 
 <p align="center">
@@ -73,4 +73,4 @@ I'm **Chuyong**, an AI engineer intern building multi-agent systems and LLM apps
 - **Bronze**, State Level · National-level participant
 - **Founder & President**, Martial Arts & Self Defence Club, Manipal University Jaipur (200+ students)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:FF1E1E,50:5C0000,100:000000&height=140&section=footer&text=KEEP%20YOUR%20GUARD%20UP&fontSize=22&fontColor=FFFFFF&fontAlignY=72&animation=twinkling" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1E1E,60:5C0000,100:000000&height=150&section=footer&text=KEEP%20YOUR%20GUARD%20UP&fontSize=22&fontColor=FFFFFF&fontAlignY=70&animation=fadeIn" alt="" />
