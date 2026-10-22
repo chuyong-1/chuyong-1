@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+  <a href="https://chuyong-1.github.io"><img src="https://img.shields.io/badge/Portfolio-chuyong--1.github.io-FF1E1E?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D0D0D" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/kwok-wai-taifa-242078387/"><img src="https://img.shields.io/badge/LinkedIn-Connect-FF1E1E?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D0D" alt="LinkedIn" /></a>
   <a href="https://github.com/chuyong-1?tab=repositories"><img src="https://img.shields.io/badge/Repos-Explore-FF1E1E?style=for-the-badge&logo=github&logoColor=white&labelColor=0D0D0D" alt="Repositories" /></a>
 </p>
@@ -19,7 +20,13 @@
   <img src="assets/about.svg" width="100%" alt="About: AI Software Engineer Intern at FreighAI; AI Developer Intern at Banao Technologies on AXON, owning data pipelines, ingestion and the NERVE event bus; B.Tech CSE (AI and ML), Manipal University Jaipur, 2024–2028. The model proposes, deterministic code decides." />
 </p>
 
-## `02` Projects
+## `02` Experience
+
+<p align="center">
+  <img src="assets/experience.svg" width="100%" alt="Experience: B.Tech CSE (AI and ML), Manipal University Jaipur, 2024–2028; Founder and President, MUJ Martial Arts Club, 2025–2026; AI Developer Intern, Banao Technologies (AXON), since Jan 2026; AI Software Engineer Intern, FreighAI, now." />
+</p>
+
+## `03` Projects
 
 <p align="center">
   <a href="https://github.com/chuyong-1/Jarvis"><img src="assets/card-jarvis.svg" width="49%" alt="jarvis" /></a>
@@ -32,7 +39,7 @@
 
 <p align="center"><sub>Also: <a href="https://github.com/chuyong-1/multi-agent-debate-langgraph">multi-agent debate</a> · <a href="https://github.com/chuyong-1/Social-to-Lead-Agentic-Workflow">social-to-lead agent</a> · <a href="https://github.com/chuyong-1/Voice-Controlled-Local-AI-Agent">voice-controlled local agent</a> · <a href="https://github.com/chuyong-1?tab=repositories">all repos →</a></sub></p>
 
-## `03` Stack
+## `04` Stack
 
 <table>
 <tr><td nowrap><code>LLMs&nbsp;&&nbsp;agents</code></td><td>
@@ -52,7 +59,7 @@
 </td></tr>
 </table>
 
-## `04` Activity
+## `05` Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=chuyong-1&background=0D0D0D&border=FF1E1E&stroke=5C0000&ring=FF1E1E&fire=FF1E1E&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF1E1E&sideLabels=FF8080&dates=8B8B8B&border_radius=8" alt="Contribution streak" />
@@ -64,8 +71,10 @@
   <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/chuyong-1/chuyong-1/output/github-snake.svg" />
 </picture>
 
-## `05` Beyond code
+## `06` Beyond code
 
 District boxing gold medalist, state bronze, national-level competitor. Founded and led the Martial Arts & Self Defence Club at Manipal University Jaipur, growing it to 200+ students.
+
+<p align="center"><b>Let's build something.</b> Full portfolio at <a href="https://chuyong-1.github.io">chuyong-1.github.io</a> · say hi on <a href="https://www.linkedin.com/in/kwok-wai-taifa-242078387/">LinkedIn</a></p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1E1E,60:5C0000,100:000000&height=120&section=footer" alt="" />
