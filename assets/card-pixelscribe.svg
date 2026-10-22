@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="240" viewBox="0 0 480 240" role="img" aria-label="PixelScribe: Edit the text inside any image. OCR, inpainting and font recognition run entirely in the browser.">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#140303"/><stop offset=".55" stop-color="#0a0a0a"/><stop offset="1" stop-color="#1a0202"/></linearGradient>
+<linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff1e1e" stop-opacity="0"/><stop offset=".5" stop-color="#ff3b3b"/><stop offset="1" stop-color="#ff1e1e" stop-opacity="0"/></linearGradient>
+<linearGradient id="scan" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff1e1e" stop-opacity="0"/><stop offset=".5" stop-color="#ff1e1e" stop-opacity=".18"/><stop offset="1" stop-color="#ff1e1e" stop-opacity="0"/></linearGradient>
+<pattern id="grid" width="16" height="16" patternUnits="userSpaceOnUse"><path d="M16 0H0V16" fill="none" stroke="#ff1e1e" stroke-opacity=".05"/></pattern>
+<filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="6"/></filter>
+<clipPath id="clip"><rect width="480" height="240" rx="12"/></clipPath>
+</defs>
+<style>
+.label{font:600 11px 'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace;fill:#ff4d4d;letter-spacing:2px}
+.num{font:600 11px 'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace;fill:#5c1a1a;letter-spacing:1px}
+.title{font:700 24px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#ffffff}
+.desc{font:400 13px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#b8b8b8}
+.metric{font:800 46px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#ff1e1e}
+.unit{font:700 20px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#ff1e1e}
+.sub{font:500 11px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#8c8c8c}
+.chip{fill:#1f0707;stroke:#5c1010}
+.chipt{font:600 11px 'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace;fill:#ff8080}
+.border{fill:none;stroke:url(#sweep);stroke-width:2;stroke-dasharray:180 1252;animation:run 6s linear infinite;animation-delay:-2.4s}
+.scan{animation:scan 5s ease-in-out infinite;animation-delay:-2.4s}
+.halo{animation:pulse 2.8s ease-in-out infinite;animation-delay:-2.4s}
+.dot{animation:blink 1.6s steps(2,start) infinite}
+.rise{animation:rise .9s cubic-bezier(.2,.8,.2,1) both;animation-delay:0.63s}
+@keyframes run{to{stroke-dashoffset:-1432}}
+@keyframes scan{0%{transform:translateY(-40px)}100%{transform:translateY(280px)}}
+@keyframes pulse{0%,100%{opacity:.25}50%{opacity:.75}}
+@keyframes blink{to{visibility:hidden}}
+@keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+</style>
+<g clip-path="url(#clip)">
+<rect width="480" height="240" fill="url(#bg)"/>
+<rect width="480" height="240" fill="url(#grid)"/>
+<rect class="scan" x="0" y="0" width="480" height="40" fill="url(#scan)"/>
+</g>
+<rect x="1" y="1" width="478" height="238" rx="12" fill="none" stroke="#2b0b0b"/>
+<rect class="border" x="1" y="1" width="478" height="238" rx="12"/>
+<path d="M1 30V13A12 12 0 0 1 13 1H30" fill="none" stroke="#ff1e1e" stroke-width="2"/>
+<path d="M479 210V227A12 12 0 0 1 467 239H450" fill="none" stroke="#ff1e1e" stroke-width="2"/>
+<g class="rise">
+<circle class="dot" cx="28" cy="31" r="3.5" fill="#ff1e1e"/>
+<text x="40" y="35" class="label">EDGE AI</text>
+<text x="456" y="35" class="num" text-anchor="end">// 05</text>
+<text x="24" y="76" class="title">PixelScribe</text>
+<text x="24" y="112" class="desc">Edit the text inside any image. OCR,</text><text x="24" y="131" class="desc">inpainting and font recognition run entirely</text><text x="24" y="150" class="desc">in the browser.</text>
+<text x="456" y="128" text-anchor="end" class="metric halo" filter="url(#glow)">0<tspan class="unit" dx="3"></tspan></text>
+<text x="456" y="128" text-anchor="end" class="metric">0<tspan class="unit" dx="3"></tspan></text>
+<text x="456" y="150" class="sub" text-anchor="end">servers needed, all</text><text x="456" y="165" class="sub" text-anchor="end">WebAssembly</text>
+<g transform="translate(24,194)"><rect width="97" height="22" rx="11" class="chip"/><text x="49" y="15" class="chipt" text-anchor="middle">Tesseract.js</text></g><g transform="translate(129.2,194)"><rect width="77" height="22" rx="11" class="chip"/><text x="39" y="15" class="chipt" text-anchor="middle">OpenCV.js</text></g><g transform="translate(214.6,194)"><rect width="44" height="22" rx="11" class="chip"/><text x="22" y="15" class="chipt" text-anchor="middle">ONNX</text></g>
+</g>
+</svg>
