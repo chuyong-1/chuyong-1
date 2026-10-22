@@ -1,4 +1,12 @@
-## Hi, I'm Kwok Wai Taifa (Chuyong)
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kwok%20Wai%20Taifa&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Multi-Agent%20Systems%20%C2%B7%20Local-first%20AI&descAlignY=56&descSize=17" alt="Kwok Wai Taifa" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&lines=The+model+proposes%2C+deterministic+code+decides.;Building+multi-agent+systems+at+FreighAI+%26+Banao;Offline+AI+that+runs+on+a+laptop+GPU;LLM+guardrails+%C2%B7+RAG+%C2%B7+agent+orchestration" alt="Typing intro" />
+</p>
+
+## Hi, I'm Chuyong
 
 AI engineer intern building multi-agent systems and LLM apps that are safe to run in production. My rule of thumb: **the model proposes, deterministic code decides.**
 
@@ -36,3 +44,13 @@ AI engineer intern building multi-agent systems and LLM apps that are safe to ru
 ### Outside of code
 
 Founder and President of the Martial Arts & Self Defence Club at Manipal University Jaipur (200+ students). District boxing gold medalist, state bronze, national-level participant.
+
+### Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chuyong-1/chuyong-1/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chuyong-1/chuyong-1/output/github-snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/chuyong-1/chuyong-1/output/github-snake.svg" />
+</picture>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="" />
