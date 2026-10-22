@@ -1,22 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="240" viewBox="0 0 480 240" role="img" aria-label="Jarvis: Fully offline voice assistant. Wake word, speech-to-text, a local LLM and sandboxed file tools. Zero cloud calls.">
 <defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#140303"/><stop offset=".55" stop-color="#0a0a0a"/><stop offset="1" stop-color="#1a0202"/></linearGradient>
-<linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff1e1e" stop-opacity="0"/><stop offset=".5" stop-color="#ff3b3b"/><stop offset="1" stop-color="#ff1e1e" stop-opacity="0"/></linearGradient>
-<linearGradient id="scan" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#ff1e1e" stop-opacity="0"/><stop offset=".5" stop-color="#ff1e1e" stop-opacity=".18"/><stop offset="1" stop-color="#ff1e1e" stop-opacity="0"/></linearGradient>
-<pattern id="grid" width="16" height="16" patternUnits="userSpaceOnUse"><path d="M16 0H0V16" fill="none" stroke="#ff1e1e" stroke-opacity=".05"/></pattern>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#020d1a"/><stop offset=".55" stop-color="#05080d"/><stop offset="1" stop-color="#011426"/></linearGradient>
+<linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1ea7ff" stop-opacity="0"/><stop offset=".5" stop-color="#5cc8ff"/><stop offset="1" stop-color="#1ea7ff" stop-opacity="0"/></linearGradient>
+<linearGradient id="scan" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#1ea7ff" stop-opacity="0"/><stop offset=".5" stop-color="#1ea7ff" stop-opacity=".18"/><stop offset="1" stop-color="#1ea7ff" stop-opacity="0"/></linearGradient>
+<pattern id="grid" width="16" height="16" patternUnits="userSpaceOnUse"><path d="M16 0H0V16" fill="none" stroke="#1ea7ff" stroke-opacity=".06"/></pattern>
 <filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="6"/></filter>
 <clipPath id="clip"><rect width="480" height="240" rx="12"/></clipPath>
 </defs>
 <style>
-.label{font:600 11px 'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace;fill:#ff4d4d;letter-spacing:2px}
-.num{font:600 11px 'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace;fill:#5c1a1a;letter-spacing:1px}
+.label{font:600 11px 'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace;fill:#4db8ff;letter-spacing:2px}
+.num{font:600 11px 'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace;fill:#0f3a5c;letter-spacing:1px}
 .title{font:700 24px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#ffffff}
 .desc{font:400 13px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#b8b8b8}
-.metric{font:800 46px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#ff1e1e}
-.unit{font:700 20px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#ff1e1e}
+.metric{font:800 46px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#1ea7ff}
+.unit{font:700 20px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#1ea7ff}
 .sub{font:500 11px 'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#8c8c8c}
-.chip{fill:#1f0707;stroke:#5c1010}
-.chipt{font:600 11px 'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace;fill:#ff8080}
+.chip{fill:#06192b;stroke:#0f4c7a}
+.chipt{font:600 11px 'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace;fill:#8fd3ff}
 .border{fill:none;stroke:url(#sweep);stroke-width:2;stroke-dasharray:180 1252;animation:run 6s linear infinite;animation-delay:-0.0s}
 .scan{animation:scan 5s ease-in-out infinite;animation-delay:-0.0s}
 .halo{animation:pulse 2.8s ease-in-out infinite;animation-delay:-0.0s}
@@ -33,12 +33,12 @@
 <rect width="480" height="240" fill="url(#grid)"/>
 <rect class="scan" x="0" y="0" width="480" height="40" fill="url(#scan)"/>
 </g>
-<rect x="1" y="1" width="478" height="238" rx="12" fill="none" stroke="#2b0b0b"/>
+<rect x="1" y="1" width="478" height="238" rx="12" fill="none" stroke="#0b2238"/>
 <rect class="border" x="1" y="1" width="478" height="238" rx="12"/>
-<path d="M1 30V13A12 12 0 0 1 13 1H30" fill="none" stroke="#ff1e1e" stroke-width="2"/>
-<path d="M479 210V227A12 12 0 0 1 467 239H450" fill="none" stroke="#ff1e1e" stroke-width="2"/>
+<path d="M1 30V13A12 12 0 0 1 13 1H30" fill="none" stroke="#1ea7ff" stroke-width="2"/>
+<path d="M479 210V227A12 12 0 0 1 467 239H450" fill="none" stroke="#1ea7ff" stroke-width="2"/>
 <g class="rise">
-<circle class="dot" cx="28" cy="31" r="3.5" fill="#ff1e1e"/>
+<circle class="dot" cx="28" cy="31" r="3.5" fill="#1ea7ff"/>
 <text x="40" y="35" class="label">VOICE AI</text>
 <text x="456" y="35" class="num" text-anchor="end">// 01</text>
 <text x="24" y="76" class="title">Jarvis</text>
