@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=19&duration=3000&pause=1200&color=FF1E1E&center=true&vCenter=true&width=700&lines=The%20model%20proposes.%20Deterministic%20code%20decides.;Multi-agent%20systems%20%40%20FreighAI%20%26%20Banao;Offline%20AI%20that%20runs%20on%20a%20laptop%20GPU;Off%20the%20keyboard%2C%20in%20the%20boxing%20ring" alt="The model proposes. Deterministic code decides." />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=500&size=19&duration=3000&pause=1200&color=FF1E1E&center=true&vCenter=true&width=700&lines=The%20model%20proposes.%20Deterministic%20code%20decides.;Multi-agent%20systems%20%40%20FreighAI;Offline%20AI%20that%20runs%20on%20a%20laptop%20GPU;Off%20the%20keyboard%2C%20in%20the%20boxing%20ring" alt="The model proposes. Deterministic code decides." />
 </p>
 
 <p align="center">
@@ -17,13 +17,13 @@
 ## `01` About
 
 <p align="center">
-  <img src="assets/about.svg" width="100%" alt="About: AI Software Engineer Intern at FreighAI; AI Developer Intern at Banao Technologies on AXON, owning data pipelines, ingestion and the NERVE event bus; B.Tech CSE (AI and ML), Manipal University Jaipur, 2024–2028. The model proposes, deterministic code decides." />
+  <img src="assets/about.svg" width="100%" alt="About: AI Software Engineer Intern at FreighAI; previously AI Developer Intern at Banao Technologies on AXON (Jan–Oct 2026), owning data pipelines, ingestion and the NERVE event bus; B.Tech CSE (AI and ML), Manipal University Jaipur, 2024–2028. The model proposes, deterministic code decides." />
 </p>
 
 ## `02` Experience
 
 <p align="center">
-  <img src="assets/experience.svg" width="100%" alt="Experience: B.Tech CSE (AI and ML), Manipal University Jaipur, 2024–2028; Founder and President, MUJ Martial Arts Club, 2025–2026; AI Developer Intern, Banao Technologies (AXON), since Jan 2026; AI Software Engineer Intern, FreighAI, now." />
+  <img src="assets/experience.svg" width="100%" alt="Experience: B.Tech CSE (AI and ML), Manipal University Jaipur, 2024–2028; Founder and President, MUJ Martial Arts Club, 2025–2026; AI Developer Intern, Banao Technologies (AXON), Jan–Oct 2026; AI Software Engineer Intern, FreighAI, now." />
 </p>
 
 ## `03` Projects
